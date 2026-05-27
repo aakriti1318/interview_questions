@@ -1,4 +1,4 @@
-````markdown
+
 # AI Engineer Interview Question
 
 ## Topic: Memory Management for Long Conversations
@@ -50,4 +50,3 @@ Designing memory for long conversations involves a trade-off between relevance, 
 - Designing privacy-aware persistent memory systems
 - Trade-offs between latency, cost, and recall
 
-````
